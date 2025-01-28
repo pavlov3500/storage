@@ -1,7 +1,5 @@
 {
   "url": "https://giftlottery.ru/",
   "name": "Gift Lottery",
-  "iconUrl": "https://github.com/pavlov3500/storage/blob/main/images/giftlottery-bot-logo.png",
-  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
-  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+  "iconUrl": "https://github.com/pavlov3500/storage/blob/main/images/giftlottery-bot-logo.png"
 }
