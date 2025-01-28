@@ -1,5 +1,7 @@
 {
   "url": "https://giftlottery.ru/",
   "name": "Gift Lottery",
-  "iconUrl": "https://github.com/pavlov3500/storage/blob/main/images/giftlottery-bot-logo.png"
+  "iconUrl": "https://github.com/pavlov3500/storage/blob/main/images/giftlottery-bot-logo.png",
+  "termsOfUseUrl": "",
+  "privacyPolicyUrl": ""
 }
